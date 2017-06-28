@@ -1,0 +1,23 @@
+{
+  "name": "simple-mock",
+  "version": "1.0.0",
+  "description": "一个简单的假数据服务器",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanlinwu/simple-mock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guanlinwu/simple-mock/issues"
+  },
+  "homepage": "https://github.com/guanlinwu/simple-mock#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
